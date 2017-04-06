@@ -28,5 +28,7 @@
       }
     }
   },
-  "dependencies": {}
+  "dependencies": {
+    "request": "^2.81.0"
+  }
 }
